@@ -1,0 +1,47 @@
+body {
+	margin:0;
+}
+
+header h1 {
+	text-align:center;
+}
+
+#form {
+	text-align:center;
+	margin-bottom:10px;
+}
+
+#actionday {
+	text-align:center;
+	margin-bottom:20px;
+}
+
+#Button {
+	text-align:center;
+}
+
+.list_date {
+	float:left;
+	width:50%;
+}
+
+.list_date h3 {
+	text-align:center;
+}
+
+.list_content {
+	float:left;
+	width:50%;
+}
+
+.list_content h3 {
+	text-align:center;
+}
+
+.list_c p {
+	text-align:center;
+}
+
+.list_d p {
+	text-align:center;
+}
